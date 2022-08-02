@@ -20,7 +20,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 2
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:windswept_hills", "minecraft:windswept_gravelly_hills", "minecraft:stony_peaks", "minecraft:meadow", "biomesoplenty:crag", "minecraft:frozen_peaks", "minecraft:windswept_forest", "minecraft:snowy_slopes", "biomesoplenty:jade_cliffs", "biomesoplenty:highland", "minecraft:jagged_peaks"]
+			spawn_biomes = ["minecraft:frozen_peaks", "minecraft:stony_peaks", "minecraft:snowy_slopes", "biomesoplenty:jade_cliffs", "minecraft:jagged_peaks", "minecraft:windswept_hills", "minecraft:windswept_forest", "minecraft:meadow", "biomesoplenty:crag", "biomesoplenty:highland", "minecraft:windswept_gravelly_hills"]
 
 			[entities.lammergeier.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -49,7 +49,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:badlands", "minecraft:bamboo_jungle", "biomesoplenty:rocky_rainforest", "minecraft:sparse_jungle", "minecraft:jungle", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle", "biomesoplenty:rainforest", "minecraft:desert", "minecraft:wooded_badlands"]
+			spawn_biomes = ["minecraft:jungle", "biomesoplenty:rocky_rainforest", "minecraft:badlands", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "biomesoplenty:rainforest", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle", "minecraft:desert", "minecraft:wooded_badlands"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -82,7 +82,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mediterranean_forest", "minecraft:meadow", "minecraft:snowy_plains", "biomesoplenty:seasonal_forest", "minecraft:birch_forest", "biomesoplenty:boreal_forest", "minecraft:savanna_plateau", "minecraft:forest", "biomesoplenty:woodland", "minecraft:plains", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:mystic_grove", "biomesoplenty:wooded_scrubland", "minecraft:dark_forest", "minecraft:windswept_savanna", "minecraft:grove", "minecraft:savanna", "minecraft:flower_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "minecraft:old_growth_birch_forest", "biomesoplenty:scrubland", "biomesoplenty:lush_savanna", "biomesoplenty:dryland"]
+			spawn_biomes = ["minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "minecraft:savanna_plateau", "minecraft:savanna", "biomesoplenty:dryland", "minecraft:snowy_plains", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "biomesoplenty:boreal_forest", "biomesoplenty:lush_savanna", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:meadow", "minecraft:forest", "biomesoplenty:orchard", "minecraft:windswept_savanna", "minecraft:dark_forest", "biomesoplenty:wooded_scrubland", "minecraft:grove", "minecraft:plains", "biomesoplenty:scrubland"]
 
 			[entities.pheasant.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -113,7 +113,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:grove", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:grove"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -146,7 +146,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 4
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:meadow", "minecraft:grove", "minecraft:snowy_plains", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "minecraft:plains", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:sunflower_plains", "minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "minecraft:snowy_plains", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:meadow", "minecraft:grove", "minecraft:plains"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -179,7 +179,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 2
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mediterranean_forest", "minecraft:meadow", "minecraft:snowy_plains", "biomesoplenty:seasonal_forest", "minecraft:birch_forest", "biomesoplenty:boreal_forest", "minecraft:savanna_plateau", "minecraft:forest", "biomesoplenty:woodland", "minecraft:plains", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:mystic_grove", "biomesoplenty:wooded_scrubland", "minecraft:dark_forest", "minecraft:windswept_savanna", "minecraft:grove", "minecraft:savanna", "minecraft:flower_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "minecraft:old_growth_birch_forest", "biomesoplenty:scrubland", "biomesoplenty:lush_savanna", "biomesoplenty:dryland"]
+			spawn_biomes = ["minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "minecraft:savanna_plateau", "minecraft:savanna", "biomesoplenty:dryland", "minecraft:snowy_plains", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "biomesoplenty:boreal_forest", "biomesoplenty:lush_savanna", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:meadow", "minecraft:forest", "biomesoplenty:orchard", "minecraft:windswept_savanna", "minecraft:dark_forest", "biomesoplenty:wooded_scrubland", "minecraft:grove", "minecraft:plains", "biomesoplenty:scrubland"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -212,7 +212,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:beach", "minecraft:mangrove_swamp", "minecraft:swamp", "biomesoplenty:dune_beach", "minecraft:snowy_beach"]
+			spawn_biomes = ["minecraft:beach", "minecraft:snowy_beach", "minecraft:swamp", "biomesoplenty:dune_beach", "minecraft:mangrove_swamp"]
 
 			[entities.crab.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -243,7 +243,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:beach", "biomesoplenty:dune_beach", "minecraft:snowy_beach"]
+			spawn_biomes = ["minecraft:beach", "minecraft:snowy_beach", "biomesoplenty:dune_beach"]
 
 			[entities.horseshoecrab.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -272,7 +272,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_ocean", "minecraft:deep_frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:ocean", "minecraft:frozen_ocean"]
+			spawn_biomes = ["minecraft:frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -305,7 +305,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove"]
 
 			[entities.turkey.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -334,7 +334,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_ocean", "minecraft:deep_frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:ocean", "minecraft:frozen_ocean"]
+			spawn_biomes = ["minecraft:frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean"]
 
 			[entities.bobbit_worm.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -367,7 +367,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 5
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:river", "minecraft:forest", "biomesoplenty:woodland", "minecraft:frozen_river", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:river", "biomesoplenty:boreal_forest", "minecraft:frozen_river", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove"]
 
 			[entities.goose.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -396,7 +396,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_ocean", "minecraft:deep_frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:ocean", "minecraft:frozen_ocean"]
+			spawn_biomes = ["minecraft:frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -429,7 +429,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 5
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:deep_frozen_ocean", "minecraft:stony_shore", "minecraft:frozen_ocean", "minecraft:snowy_beach"]
+			spawn_biomes = ["minecraft:deep_frozen_ocean", "minecraft:frozen_ocean", "minecraft:snowy_beach", "minecraft:stony_shore"]
 
 			[entities.walrus.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -458,7 +458,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:deep_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean"]
+			spawn_biomes = ["minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean"]
 
 			[entities.squid_colossal.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -487,7 +487,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:deep_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean"]
+			spawn_biomes = ["minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean"]
 
 			[entities.squid_giant.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -516,7 +516,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:lukewarm_ocean"]
+			spawn_biomes = ["minecraft:lukewarm_ocean", "minecraft:warm_ocean", "minecraft:deep_lukewarm_ocean"]
 
 			[entities.octopus.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -547,7 +547,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:grove", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:grove"]
 
 			[entities.brownbear.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -578,7 +578,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:grove", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:grove"]
 
 			[entities.blackbear.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -609,7 +609,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 4
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:grove", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:grove"]
 
 			[entities.deer.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -642,7 +642,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 6
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "minecraft:dark_forest", "biomesoplenty:mediterranean_forest", "minecraft:grove", "minecraft:deep_dark", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "minecraft:dark_forest", "minecraft:deep_dark", "biomesoplenty:boreal_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:grove"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -679,7 +679,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 6
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:badlands", "minecraft:meadow", "minecraft:plains", "minecraft:snowy_plains", "minecraft:desert", "minecraft:wooded_badlands", "minecraft:sunflower_plains"]
+			spawn_biomes = ["minecraft:sunflower_plains", "minecraft:badlands", "minecraft:snowy_plains", "minecraft:meadow", "minecraft:desert", "minecraft:wooded_badlands", "minecraft:plains"]
 
 			[entities.coyote.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -708,7 +708,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 5
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_ocean", "minecraft:deep_frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:ocean", "minecraft:frozen_ocean"]
+			spawn_biomes = ["minecraft:frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean"]
 
 			[entities.jellyfish.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -739,7 +739,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 4
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:grove", "minecraft:snowy_plains", "minecraft:frozen_peaks", "minecraft:snowy_slopes", "minecraft:ice_spikes", "minecraft:frozen_river", "minecraft:snowy_taiga", "minecraft:jagged_peaks", "minecraft:snowy_beach"]
+			spawn_biomes = ["minecraft:frozen_peaks", "minecraft:frozen_river", "minecraft:ice_spikes", "minecraft:snowy_slopes", "minecraft:snowy_beach", "minecraft:jagged_peaks", "minecraft:snowy_plains", "minecraft:snowy_taiga", "minecraft:grove"]
 
 			[entities.reindeer.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -770,7 +770,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 4
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mediterranean_forest", "minecraft:meadow", "biomesoplenty:rocky_rainforest", "minecraft:snowy_plains", "minecraft:sparse_jungle", "biomesoplenty:rainforest", "biomesoplenty:seasonal_forest", "minecraft:birch_forest", "biomesoplenty:boreal_forest", "minecraft:savanna_plateau", "minecraft:forest", "biomesoplenty:woodland", "minecraft:plains", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:mystic_grove", "biomesoplenty:wooded_scrubland", "minecraft:dark_forest", "minecraft:bamboo_jungle", "minecraft:windswept_savanna", "minecraft:grove", "minecraft:savanna", "minecraft:flower_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "minecraft:old_growth_birch_forest", "minecraft:jungle", "biomesoplenty:scrubland", "biomesoplenty:lush_savanna", "biomesoplenty:dryland"]
+			spawn_biomes = ["minecraft:sunflower_plains", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "minecraft:savanna_plateau", "minecraft:savanna", "biomesoplenty:dryland", "minecraft:snowy_plains", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "biomesoplenty:fungal_jungle", "biomesoplenty:boreal_forest", "biomesoplenty:lush_savanna", "biomesoplenty:seasonal_forest", "biomesoplenty:rainforest", "biomesoplenty:floodplain", "biomesoplenty:pumpkin_patch", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove", "minecraft:meadow", "biomesoplenty:rocky_rainforest", "minecraft:forest", "biomesoplenty:orchard", "minecraft:bamboo_jungle", "minecraft:windswept_savanna", "minecraft:sparse_jungle", "minecraft:dark_forest", "minecraft:jungle", "biomesoplenty:wooded_scrubland", "minecraft:grove", "minecraft:plains", "biomesoplenty:scrubland"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -812,7 +812,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:river", "minecraft:mangrove_swamp", "minecraft:swamp", "minecraft:frozen_river"]
+			spawn_biomes = ["minecraft:frozen_river", "minecraft:swamp", "minecraft:river", "minecraft:mangrove_swamp"]
 
 			[entities.lamprey.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -841,7 +841,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:deep_ocean", "minecraft:deep_frozen_ocean", "minecraft:lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_cold_ocean", "minecraft:ocean", "minecraft:frozen_ocean"]
+			spawn_biomes = ["minecraft:frozen_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:warm_ocean", "minecraft:cold_ocean"]
 
 			[entities.nautilus.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -872,7 +872,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:old_growth_spruce_taiga", "minecraft:old_growth_pine_taiga", "minecraft:mangrove_swamp", "minecraft:swamp"]
+			spawn_biomes = ["minecraft:swamp", "minecraft:old_growth_spruce_taiga", "minecraft:mangrove_swamp", "minecraft:old_growth_pine_taiga"]
 
 			[entities.moose.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -901,7 +901,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:river", "minecraft:mangrove_swamp", "minecraft:swamp", "minecraft:frozen_river"]
+			spawn_biomes = ["minecraft:frozen_river", "minecraft:swamp", "minecraft:river", "minecraft:mangrove_swamp"]
 
 			[entities.eel_freshwater.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -930,7 +930,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:ocean"]
+			spawn_biomes = ["minecraft:lukewarm_ocean", "minecraft:ocean", "minecraft:warm_ocean"]
 
 			[entities.eel_saltwater.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -959,7 +959,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "minecraft:dark_forest", "minecraft:bamboo_jungle", "biomesoplenty:rocky_rainforest", "minecraft:sparse_jungle", "biomesoplenty:rainforest", "biomesoplenty:seasonal_forest", "minecraft:flower_forest", "minecraft:birch_forest", "biomesoplenty:orchard", "biomesoplenty:redwood_forest", "biomesoplenty:boreal_forest", "minecraft:old_growth_birch_forest", "minecraft:forest", "biomesoplenty:woodland", "minecraft:jungle", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle", "biomesoplenty:bamboo_grove", "biomesoplenty:pumpkin_patch", "biomesoplenty:cherry_blossom_grove"]
+			spawn_biomes = ["biomesoplenty:rocky_rainforest", "minecraft:forest", "biomesoplenty:orchard", "biomesoplenty:cherry_blossom_grove", "biomesoplenty:woodland", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "biomesoplenty:redwood_forest", "minecraft:birch_forest", "minecraft:flower_forest", "biomesoplenty:fungal_jungle", "minecraft:dark_forest", "biomesoplenty:boreal_forest", "minecraft:jungle", "biomesoplenty:seasonal_forest", "biomesoplenty:rainforest", "biomesoplenty:pumpkin_patch", "biomesoplenty:floodplain", "minecraft:old_growth_birch_forest", "biomesoplenty:mystic_grove", "biomesoplenty:mediterranean_forest", "biomesoplenty:bamboo_grove"]
 
 			[entities.butterfly.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -988,7 +988,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:river", "minecraft:mangrove_swamp", "minecraft:swamp", "minecraft:frozen_river"]
+			spawn_biomes = ["minecraft:frozen_river", "minecraft:swamp", "minecraft:river", "minecraft:mangrove_swamp"]
 
 			[entities.dragonfly.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -1075,7 +1075,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 5
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:bamboo_jungle", "biomesoplenty:rocky_rainforest", "minecraft:sparse_jungle", "minecraft:jungle", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle", "biomesoplenty:rainforest"]
+			spawn_biomes = ["minecraft:jungle", "biomesoplenty:rocky_rainforest", "minecraft:bamboo_jungle", "minecraft:sparse_jungle", "biomesoplenty:rainforest", "biomesoplenty:floodplain", "biomesoplenty:fungal_jungle"]
 
 			[entities.piranha.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
