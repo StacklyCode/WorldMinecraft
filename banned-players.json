@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "c6fd3543-bcce-453a-ac87-2a925d1bcccc",
+    "name": "Rober",
+    "created": "2022-08-25 22:06:20 -0500",
+    "source": "BUIL",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

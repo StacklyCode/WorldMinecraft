@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "8803be65-8350-3668-9b2c-6c8b8454b8ca",
+    "name": "WRShakespeare",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b6eb01e2-28c5-3f74-b2a1-aedf863bc6c5",
+    "name": "robertofire",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "348f35f9-596a-3049-8145-1f526c92053f",
+    "name": "zkn69",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "50ac501f-889b-3704-b750-233f7d8921e4",
+    "name": "Jokeiss_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
